@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
----
-
 # Unity Layout Settings
 
 The default layout of Unity Editor may not be the most comfortable layout for current developers. Here are methods to adjust, save, and quickly import layouts.
