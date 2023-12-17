@@ -1,6 +1,13 @@
+---
+description: >-
+  默认的Editor的开发模块布局可能不是最适合当前开发者的开发模块布局。所以，在开始开发之前，开发者可以根据自己的使用习惯来调整Editor的开发布局。（The
+  default layout of Unity Editor may not be the most comfortable layout for
+  current developers. Here are methods to adjus
+---
+
 # 编辑器布局设置 - Unity Editor Layout Settings
 
-The default layout of Unity Editor may not be the most comfortable layout for current developers. Here are methods to adjust, save, and quickly import layouts.
+### 配置步骤 - Configuration Steps
 
 1. 打开或者创建一个Unity的项目在Unity Editor中（Open or create a Unity project in the Unity Editor）
 
